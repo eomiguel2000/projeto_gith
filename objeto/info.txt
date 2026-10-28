@@ -1,0 +1,3 @@
+Objeto:Controle
+Maraca:Sansung
+Cor:Preto
